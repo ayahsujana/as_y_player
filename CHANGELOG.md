@@ -1,5 +1,7 @@
 # Changelog
 
+## 1.1.1
+- Update library exploded
 ## 1.1.0
 - Introduced new controller-based functionality for improved state management
 - Enhanced handling of app lifecycle changes and fullscreen mode
